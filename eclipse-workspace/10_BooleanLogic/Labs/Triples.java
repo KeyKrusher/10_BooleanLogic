@@ -7,7 +7,7 @@ import static java.lang.System.*;
 import java.util.Arrays;
 import java.util.Collections;
 
-// Max valuier
+// Max value
 
 public class Triples {
    private int number;
